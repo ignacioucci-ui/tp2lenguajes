@@ -1,0 +1,27 @@
+body { 
+    font-family: Arial, sans-serif; 
+    margin: 20px; 
+} 
+ 
+#mapa { 
+    height: 400px; 
+    width: 100%; 
+    border: 1px solid #ccc; 
+    margin-bottom: 15px; 
+} 
+ 
+.botones button { 
+    margin-right: 10px; 
+    padding: 5px 10px; 
+    cursor: pointer; 
+} 
+ 
+#listaHistorial { 
+    list-style-type: disc; 
+    padding-left: 20px; 
+} 
+ 
+#listaHistorial li { 
+    font-size: 0.9em; 
+    margin-bottom: 3px; 
+}
